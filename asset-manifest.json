@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ece78da.chunk.css",
+    "main.js": "/static/js/main.d37d08d2.chunk.js",
+    "main.js.map": "/static/js/main.d37d08d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07474f0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07474f0d.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.773e396d.chunk.js": "/static/js/2.773e396d.chunk.js",
+    "static/js/2.773e396d.chunk.js.map": "/static/js/2.773e396d.chunk.js.map",
+    "static/js/3.a2b874f3.chunk.js": "/static/js/3.a2b874f3.chunk.js",
+    "static/js/3.a2b874f3.chunk.js.map": "/static/js/3.a2b874f3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.7ece78da.chunk.css.map": "/static/css/main.7ece78da.chunk.css.map",
+    "static/js/2.773e396d.chunk.js.LICENSE.txt": "/static/js/2.773e396d.chunk.js.LICENSE.txt",
+    "static/media/LOGOS-ETIQUETAS_3.d6b030a5.png": "/static/media/LOGOS-ETIQUETAS_3.d6b030a5.png",
+    "static/media/background-2.11f47e28.jpg": "/static/media/background-2.11f47e28.jpg",
+    "static/media/index.scss": "/static/media/rounded-elegance.f3a82079.TTF",
+    "static/media/jean_background.9a18d730.png": "/static/media/jean_background.9a18d730.png",
+    "static/media/logo-loopsas.4c8d7fd6.png": "/static/media/logo-loopsas.4c8d7fd6.png",
+    "static/media/slide-1.61da2d7b.png": "/static/media/slide-1.61da2d7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07474f0d.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.773e396d.chunk.js",
+    "static/css/main.7ece78da.chunk.css",
+    "static/js/main.d37d08d2.chunk.js"
+  ]
+}
